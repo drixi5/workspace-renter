@@ -2,9 +2,9 @@
 
 API based on sakila database
 
-## Angular Front Repository
+## Angular Front App Repository
 
-https://github.com/mattp94/movies-renter
+Fork it from here : https://github.com/mattp94/movies-renter
 
 ## Team students
 
